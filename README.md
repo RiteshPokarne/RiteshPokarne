@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshpokarne&label=Profile%20views&color=0e75b6&style=flat" alt="riteshpokarne" /> </p>
+
+
+
 <p align="left"> <a href="https://twitter.com/riteshpokarne" target="blank"><img src="https://img.shields.io/twitter/follow/riteshpokarne?logo=twitter&style=for-the-badge" alt="riteshpokarne" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, DATA SCIENCE, ML, AI, CLOUD**
@@ -28,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshpokarne&show_icons=true&locale=en&layout=compact" alt="riteshpokarne" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshpokarne&show_icons=true&locale=en" alt="riteshpokarne" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshpokarne&" alt="riteshpokarne" /></p>
