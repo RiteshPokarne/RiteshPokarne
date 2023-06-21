@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/riteshpokarne" target="blank"><img src="https://img.shields.io/twitter/follow/riteshpokarne?logo=twitter&style=for-the-badge" alt="riteshpokarne" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, DATA SCIENCE, ML, AI, CLOUD**
+- 🌱 I’m currently learning **C++, DSA, DATA SCIENCE, ML, AI, CLOUD,JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RiteshPokarne](https://github.com/RiteshPokarne)
 
