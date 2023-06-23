@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/RiteshPokarne](https://github.com/RiteshPokarne)
 
 - 📝 I regularly write articles on [https://medium.com/@ritesh.pokarne20](https://medium.com/@ritesh.pokarne20)
+- 📝 Read my Publication on https://www.researchgate.net/profile/Ritesh-Pokarne
 
 - 💬 Ask me about **PYTHON, DJANGO, DSA**
 
